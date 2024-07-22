@@ -1,0 +1,89 @@
+.add-employee-heading{
+    font-weight: 600;
+    font-size: 20px;
+}
+.add-employee-form{
+    display: flex;
+    gap:24px;
+    padding: 24px 0;
+}
+form{
+    width: 98%;
+}
+.add-employee-form form{
+    display: flex;
+    flex-direction: column;
+    gap:24px;
+}
+.add-employee-profile{
+    display: flex;
+    align-items: center;
+    gap:24px;
+}
+.add-employee-profile img{
+    height: 75px;
+    cursor: pointer;
+}
+.add-employee-profile button{
+    height: 28px;
+    padding: 0 12px;
+    background-color: #F44848;
+    color:white;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+}
+.image-input{
+    display: none;
+}
+.information{
+    display: flex;
+    flex-direction: column;
+}
+.personal-information{
+    display: flex;
+    flex-direction: column;
+    gap:24px;
+}
+.input-field{
+    display: flex;
+    flex-direction: column;
+}
+.employment-information{
+    margin-top: 24px;
+    display: flex;
+    flex-direction: column;
+    gap:24px;
+}
+.information-heading{
+    font-weight: 600;
+}
+.employment-information .input-fields .input-field input{
+    height: 25px;
+    width: 300px;
+}
+label{
+    line-height: 1.7;
+    color:#4B4C4F;
+    font-size: 14px;
+}
+.date-of-birth-field{
+    display: flex;
+    flex-direction: row;
+    border:2px solid #DCDEE3;
+    border-radius: 3px;
+    align-items: center;
+    padding-left: 4px;
+    transition: 0.1s;
+}
+.date-of-birth-field img{
+    height: 17px;
+}
+.date-of-birth-field input{
+    border: none;
+    text-indent: 5px;
+}
+.date-of-birth-field input:focus{
+    border:none;
+    height:27px;
+}

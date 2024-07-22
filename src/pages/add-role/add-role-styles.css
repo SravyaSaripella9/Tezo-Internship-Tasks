@@ -1,0 +1,113 @@
+.add-role-heading{
+    font-size: 18px;
+}
+.add-role-form{
+    display: flex;
+}
+form{
+    width: 98%;
+}
+.input-field{
+    display: flex;
+    flex-direction: column;
+    margin-top: 24px;
+}
+.input-field input{
+    width: 220px;
+}
+.input-field select{
+    width: 220px;
+}
+label, .assign-employees-label{
+    line-height: 2;
+    color:#4B4C4F;
+    font-size: 14px;
+}
+textarea{  
+    width: 50%;
+    text-indent: 4px;
+    transition: 0.1s; 
+    outline: none; 
+}
+#description{
+    border: 2px solid #DCDEE3;
+    border-radius: 3px;
+}
+#location, #assignEmployees{
+    width: 300px;
+}
+.assign-employees-options{
+    display: flex;
+    flex-direction: column;
+    gap:4px;
+    width:300px;
+}
+.search-employee{
+    display: flex;
+    justify-content: space-between;
+    padding-right: 10px; 
+    align-items: center;
+    border: 1px solid #C6CBD1;
+    height: 30px;
+    border-radius: 3px;
+}
+.search-employee input{
+    border:none;
+}
+.search-employee input:focus{
+    border:none
+}
+.search-employee img{
+    height: 15px;
+}
+.assign-employees{
+    display: none;
+    flex-direction: column;
+    gap:4px;
+    max-height:140px;
+    overflow-y:scroll;
+}
+.assign-employees::-webkit-scrollbar {
+    width:5px;
+}
+.assign-employees::-webkit-scrollbar-track {
+    background: white; 
+}
+.assign-employees::-webkit-scrollbar-thumb {
+    background: #F44848; 
+    border-radius: 12px;
+}
+.assign-employees-option{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    border: 1px solid #C6CBD1;
+    height: 30px;
+    border-radius: 3px;
+}
+.assign-employees-option div{
+    width: 80%;
+    display: flex;
+    align-items: center;
+    border:none;
+    gap:4px;
+    padding-left:8px;
+    color:#142542;
+    font-size:14px;
+    height:30px;
+}
+.assign-employees-option div img{
+    height: 20px;
+}
+.assign-employees-option div:nth-child(2){
+    display: flex;
+    justify-content: flex-end;
+}
+.assign-employees-option input{
+    width: 20%;
+    height: 13px;
+}
+input[type="checkbox"]{
+    accent-color: #F44848;
+}
