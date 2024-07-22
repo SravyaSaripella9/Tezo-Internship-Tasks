@@ -1,0 +1,82 @@
+.add-role-button{
+    display:flex;
+    flex-direction: row;
+    width:35%;
+    height: 35px;
+    background-color: #F44848;
+    align-items: center;
+    border-radius: 8px;
+    cursor: pointer;
+    justify-content: center;
+    gap:5%;
+}
+.card-header{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-bottom: 6%;
+    font-weight: 700;
+    align-items: center;
+}
+.card-header img{
+    cursor: pointer;
+}
+.card-content{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-bottom: 3%;
+    color: #5C6B85;
+    font-size: 13px;
+}
+.category{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.category img{
+    padding-right: 2%;
+}
+.profiles{
+    position:relative;
+    width:0;
+    height: 0;
+}
+.profile{
+    display: flex;
+    position: absolute;
+}
+.profile img{
+    width: 15px;
+    border: 1px solid white;
+    border-radius: 50%;
+}
+.profile:nth-child(1){
+    z-index:5;
+    right:0;
+    width: 15px;
+    height: 15px;
+    align-items: center;
+    border: 1px solid white;
+    border-radius: 50%;
+    background-color: white;
+    color: #8B95A8;
+    font-size: 7px;
+    font-weight: bold;
+}
+.profile:nth-child(2){
+    z-index:4;
+    right:9px;
+}
+.profile:nth-child(3){
+    z-index:3;
+    right:18px;
+}
+.profile:nth-child(4){
+    z-index:2;
+    right:27px;
+}
+.profile:nth-child(5){
+    z-index:1;
+    right:36px;
+}
