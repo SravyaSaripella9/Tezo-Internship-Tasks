@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "wN07gWsymNslE1hhejmvCNBw2IMhaWDkcCffgqho5DnP71tWjBpsEhQpChiWAxLOowbaADvTUSHUHPN6CKpqFQ==",
+  "success": true,
+  "projectFilePath": "C:\\Projects\\Task-5\\EmployeeDirectory\\EmployeeDirectory.UI\\EmployeeDirectory.UI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sravya.saripella\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

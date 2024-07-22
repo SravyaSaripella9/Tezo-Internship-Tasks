@@ -1,0 +1,62 @@
+[
+  {
+    "EmpNo": "TZ0020",
+    "FirstName": "Satya",
+    "LastName": "Varma",
+    "DateOfBirth": "2000-08-19",
+    "Email": "satya@tezo.com",
+    "MobileNumber": "9876543210",
+    "JoinDate": "2021-05-15",
+    "RoleId": "91b7534c-db88-403a-963e-df6969b7e2c7",
+    "Manager": "",
+    "ProjectId": 1,
+    "CreatedOn": "2024-04-25T11:21:20.4960845+05:30",
+    "LastModifiedOn": null,
+    "IsDeleted": false
+  },
+  {
+    "EmpNo": "TZ0021",
+    "FirstName": "Edgar",
+    "LastName": "Jones",
+    "DateOfBirth": "2003-02-02",
+    "Email": "edgar@tezo.com",
+    "MobileNumber": "8765432190",
+    "JoinDate": "2024-01-17",
+    "RoleId": "a969ea42-e9cb-47f8-9f9f-396cc2e1f278",
+    "Manager": "Satya Varma",
+    "ProjectId": 0,
+    "CreatedOn": "2024-04-25T11:21:20.4961409+05:30",
+    "LastModifiedOn": null,
+    "IsDeleted": false
+  },
+  {
+    "EmpNo": "TZ0022",
+    "FirstName": "Ajay",
+    "LastName": "Sharma",
+    "DateOfBirth": "2002-02-12",
+    "Email": "ajay@tezo.com",
+    "MobileNumber": "8987654321",
+    "JoinDate": "2023-10-12",
+    "RoleId": "4a5628e0-127e-4aff-a528-9a199a40380e",
+    "Manager": "",
+    "ProjectId": 0,
+    "CreatedOn": "2024-04-25T11:20:14.7073513+05:30",
+    "LastModifiedOn": "2024-04-25T12:11:22.0147391+05:30",
+    "IsDeleted": false
+  },
+  {
+    "EmpNo": "TZ0023",
+    "FirstName": "Sathwik",
+    "LastName": "Bandaru",
+    "DateOfBirth": "1998-04-29",
+    "Email": "sathwik@tezo.com",
+    "MobileNumber": "",
+    "JoinDate": "2019-06-16",
+    "RoleId": "65b86bc4-5fe9-4236-bad6-fa7e058e3ef1",
+    "Manager": "",
+    "ProjectId": 2,
+    "CreatedOn": "2024-04-25T13:00:17.2889528+05:30",
+    "LastModifiedOn": null,
+    "IsDeleted": false
+  }
+]

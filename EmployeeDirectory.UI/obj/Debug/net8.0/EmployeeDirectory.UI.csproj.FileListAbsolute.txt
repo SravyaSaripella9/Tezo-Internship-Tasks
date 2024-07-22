@@ -1,0 +1,87 @@
+C:\Users\sravya.saripella\Downloads\C# - Class Library\EmployeeDirectory\EmployeeDirectory.UI\bin\Debug\net8.0\EmployeeDirectory.UI.exe
+C:\Users\sravya.saripella\Downloads\C# - Class Library\EmployeeDirectory\EmployeeDirectory.UI\bin\Debug\net8.0\EmployeeDirectory.UI.deps.json
+C:\Users\sravya.saripella\Downloads\C# - Class Library\EmployeeDirectory\EmployeeDirectory.UI\bin\Debug\net8.0\EmployeeDirectory.UI.runtimeconfig.json
+C:\Users\sravya.saripella\Downloads\C# - Class Library\EmployeeDirectory\EmployeeDirectory.UI\bin\Debug\net8.0\EmployeeDirectory.UI.dll
+C:\Users\sravya.saripella\Downloads\C# - Class Library\EmployeeDirectory\EmployeeDirectory.UI\bin\Debug\net8.0\EmployeeDirectory.UI.pdb
+C:\Users\sravya.saripella\Downloads\C# - Class Library\EmployeeDirectory\EmployeeDirectory.UI\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\sravya.saripella\Downloads\C# - Class Library\EmployeeDirectory\EmployeeDirectory.UI\bin\Debug\net8.0\EmployeeDirectory.Business.dll
+C:\Users\sravya.saripella\Downloads\C# - Class Library\EmployeeDirectory\EmployeeDirectory.UI\bin\Debug\net8.0\EmployeeDirectory.Data.dll
+C:\Users\sravya.saripella\Downloads\C# - Class Library\EmployeeDirectory\EmployeeDirectory.UI\bin\Debug\net8.0\EmployeeDirectory.Models.dll
+C:\Users\sravya.saripella\Downloads\C# - Class Library\EmployeeDirectory\EmployeeDirectory.UI\bin\Debug\net8.0\EmployeeDirectory.Business.pdb
+C:\Users\sravya.saripella\Downloads\C# - Class Library\EmployeeDirectory\EmployeeDirectory.UI\bin\Debug\net8.0\EmployeeDirectory.Data.pdb
+C:\Users\sravya.saripella\Downloads\C# - Class Library\EmployeeDirectory\EmployeeDirectory.UI\bin\Debug\net8.0\EmployeeDirectory.Models.pdb
+C:\Users\sravya.saripella\Downloads\C# - Class Library\EmployeeDirectory\EmployeeDirectory.UI\obj\Debug\net8.0\EmployeeDirectory.UI.csproj.AssemblyReference.cache
+C:\Users\sravya.saripella\Downloads\C# - Class Library\EmployeeDirectory\EmployeeDirectory.UI\obj\Debug\net8.0\EmployeeDirectory.UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sravya.saripella\Downloads\C# - Class Library\EmployeeDirectory\EmployeeDirectory.UI\obj\Debug\net8.0\EmployeeDirectory.UI.AssemblyInfoInputs.cache
+C:\Users\sravya.saripella\Downloads\C# - Class Library\EmployeeDirectory\EmployeeDirectory.UI\obj\Debug\net8.0\EmployeeDirectory.UI.AssemblyInfo.cs
+C:\Users\sravya.saripella\Downloads\C# - Class Library\EmployeeDirectory\EmployeeDirectory.UI\obj\Debug\net8.0\EmployeeDirectory.UI.csproj.CoreCompileInputs.cache
+C:\Users\sravya.saripella\Downloads\C# - Class Library\EmployeeDirectory\EmployeeDirectory.UI\obj\Debug\net8.0\EmployeeDirectory.UI.csproj.CopyComplete
+C:\Users\sravya.saripella\Downloads\C# - Class Library\EmployeeDirectory\EmployeeDirectory.UI\obj\Debug\net8.0\EmployeeDirectory.UI.dll
+C:\Users\sravya.saripella\Downloads\C# - Class Library\EmployeeDirectory\EmployeeDirectory.UI\obj\Debug\net8.0\refint\EmployeeDirectory.UI.dll
+C:\Users\sravya.saripella\Downloads\C# - Class Library\EmployeeDirectory\EmployeeDirectory.UI\obj\Debug\net8.0\EmployeeDirectory.UI.pdb
+C:\Users\sravya.saripella\Downloads\C# - Class Library\EmployeeDirectory\EmployeeDirectory.UI\obj\Debug\net8.0\EmployeeDirectory.UI.genruntimeconfig.cache
+C:\Users\sravya.saripella\Downloads\C# - Class Library\EmployeeDirectory\EmployeeDirectory.UI\obj\Debug\net8.0\ref\EmployeeDirectory.UI.dll
+C:\Users\sravya.saripella\Downloads\C# - Class Library\EmployeeDirectory\EmployeeDirectory.UI\bin\Debug\net8.0\employees.json
+C:\Users\sravya.saripella\Downloads\C# - Class Library\EmployeeDirectory\EmployeeDirectory.UI\bin\Debug\net8.0\departments.json
+C:\Users\sravya.saripella\Downloads\C# - Class Library\EmployeeDirectory\EmployeeDirectory.UI\bin\Debug\net8.0\locations.json
+C:\Users\sravya.saripella\Downloads\C# - Class Library\EmployeeDirectory\EmployeeDirectory.UI\bin\Debug\net8.0\projects.json
+C:\Users\sravya.saripella\Downloads\C# - Class Library\EmployeeDirectory\EmployeeDirectory.UI\bin\Debug\net8.0\roles.json
+C:\Users\sravya.saripella\Downloads\C# - Class Library\EmployeeDirectory\EmployeeDirectory.UI\obj\Debug\net8.0\EmployeeDirectory.UI.sourcelink.json
+C:\Users\sravya.saripella\Documents\Internship Tasks\C# - Class Library\EmployeeDirectory\EmployeeDirectory.UI\bin\Debug\net8.0\departments.json
+C:\Users\sravya.saripella\Documents\Internship Tasks\C# - Class Library\EmployeeDirectory\EmployeeDirectory.UI\bin\Debug\net8.0\employees.json
+C:\Users\sravya.saripella\Documents\Internship Tasks\C# - Class Library\EmployeeDirectory\EmployeeDirectory.UI\bin\Debug\net8.0\locations.json
+C:\Users\sravya.saripella\Documents\Internship Tasks\C# - Class Library\EmployeeDirectory\EmployeeDirectory.UI\bin\Debug\net8.0\projects.json
+C:\Users\sravya.saripella\Documents\Internship Tasks\C# - Class Library\EmployeeDirectory\EmployeeDirectory.UI\bin\Debug\net8.0\roles.json
+C:\Users\sravya.saripella\Documents\Internship Tasks\C# - Class Library\EmployeeDirectory\EmployeeDirectory.UI\bin\Debug\net8.0\EmployeeDirectory.UI.exe
+C:\Users\sravya.saripella\Documents\Internship Tasks\C# - Class Library\EmployeeDirectory\EmployeeDirectory.UI\bin\Debug\net8.0\EmployeeDirectory.UI.deps.json
+C:\Users\sravya.saripella\Documents\Internship Tasks\C# - Class Library\EmployeeDirectory\EmployeeDirectory.UI\bin\Debug\net8.0\EmployeeDirectory.UI.runtimeconfig.json
+C:\Users\sravya.saripella\Documents\Internship Tasks\C# - Class Library\EmployeeDirectory\EmployeeDirectory.UI\bin\Debug\net8.0\EmployeeDirectory.UI.dll
+C:\Users\sravya.saripella\Documents\Internship Tasks\C# - Class Library\EmployeeDirectory\EmployeeDirectory.UI\bin\Debug\net8.0\EmployeeDirectory.UI.pdb
+C:\Users\sravya.saripella\Documents\Internship Tasks\C# - Class Library\EmployeeDirectory\EmployeeDirectory.UI\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\sravya.saripella\Documents\Internship Tasks\C# - Class Library\EmployeeDirectory\EmployeeDirectory.UI\bin\Debug\net8.0\EmployeeDirectory.Business.dll
+C:\Users\sravya.saripella\Documents\Internship Tasks\C# - Class Library\EmployeeDirectory\EmployeeDirectory.UI\bin\Debug\net8.0\EmployeeDirectory.Data.dll
+C:\Users\sravya.saripella\Documents\Internship Tasks\C# - Class Library\EmployeeDirectory\EmployeeDirectory.UI\bin\Debug\net8.0\EmployeeDirectory.Models.dll
+C:\Users\sravya.saripella\Documents\Internship Tasks\C# - Class Library\EmployeeDirectory\EmployeeDirectory.UI\bin\Debug\net8.0\EmployeeDirectory.Business.pdb
+C:\Users\sravya.saripella\Documents\Internship Tasks\C# - Class Library\EmployeeDirectory\EmployeeDirectory.UI\bin\Debug\net8.0\EmployeeDirectory.Data.pdb
+C:\Users\sravya.saripella\Documents\Internship Tasks\C# - Class Library\EmployeeDirectory\EmployeeDirectory.UI\bin\Debug\net8.0\EmployeeDirectory.Models.pdb
+C:\Users\sravya.saripella\Documents\Internship Tasks\C# - Class Library\EmployeeDirectory\EmployeeDirectory.UI\obj\Debug\net8.0\EmployeeDirectory.UI.csproj.AssemblyReference.cache
+C:\Users\sravya.saripella\Documents\Internship Tasks\C# - Class Library\EmployeeDirectory\EmployeeDirectory.UI\obj\Debug\net8.0\EmployeeDirectory.UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sravya.saripella\Documents\Internship Tasks\C# - Class Library\EmployeeDirectory\EmployeeDirectory.UI\obj\Debug\net8.0\EmployeeDirectory.UI.AssemblyInfoInputs.cache
+C:\Users\sravya.saripella\Documents\Internship Tasks\C# - Class Library\EmployeeDirectory\EmployeeDirectory.UI\obj\Debug\net8.0\EmployeeDirectory.UI.AssemblyInfo.cs
+C:\Users\sravya.saripella\Documents\Internship Tasks\C# - Class Library\EmployeeDirectory\EmployeeDirectory.UI\obj\Debug\net8.0\EmployeeDirectory.UI.csproj.CoreCompileInputs.cache
+C:\Users\sravya.saripella\Documents\Internship Tasks\C# - Class Library\EmployeeDirectory\EmployeeDirectory.UI\obj\Debug\net8.0\EmployeeDirectory.UI.sourcelink.json
+C:\Users\sravya.saripella\Documents\Internship Tasks\C# - Class Library\EmployeeDirectory\EmployeeDirectory.UI\obj\Debug\net8.0\EmployeeDirectory.UI.csproj.CopyComplete
+C:\Users\sravya.saripella\Documents\Internship Tasks\C# - Class Library\EmployeeDirectory\EmployeeDirectory.UI\obj\Debug\net8.0\EmployeeDirectory.UI.dll
+C:\Users\sravya.saripella\Documents\Internship Tasks\C# - Class Library\EmployeeDirectory\EmployeeDirectory.UI\obj\Debug\net8.0\refint\EmployeeDirectory.UI.dll
+C:\Users\sravya.saripella\Documents\Internship Tasks\C# - Class Library\EmployeeDirectory\EmployeeDirectory.UI\obj\Debug\net8.0\EmployeeDirectory.UI.pdb
+C:\Users\sravya.saripella\Documents\Internship Tasks\C# - Class Library\EmployeeDirectory\EmployeeDirectory.UI\obj\Debug\net8.0\EmployeeDirectory.UI.genruntimeconfig.cache
+C:\Users\sravya.saripella\Documents\Internship Tasks\C# - Class Library\EmployeeDirectory\EmployeeDirectory.UI\obj\Debug\net8.0\ref\EmployeeDirectory.UI.dll
+C:\Projects\Task-5\EmployeeDirectory\EmployeeDirectory.UI\bin\Debug\net8.0\departments.json
+C:\Projects\Task-5\EmployeeDirectory\EmployeeDirectory.UI\bin\Debug\net8.0\employees.json
+C:\Projects\Task-5\EmployeeDirectory\EmployeeDirectory.UI\bin\Debug\net8.0\locations.json
+C:\Projects\Task-5\EmployeeDirectory\EmployeeDirectory.UI\bin\Debug\net8.0\projects.json
+C:\Projects\Task-5\EmployeeDirectory\EmployeeDirectory.UI\bin\Debug\net8.0\roles.json
+C:\Projects\Task-5\EmployeeDirectory\EmployeeDirectory.UI\bin\Debug\net8.0\EmployeeDirectory.UI.exe
+C:\Projects\Task-5\EmployeeDirectory\EmployeeDirectory.UI\bin\Debug\net8.0\EmployeeDirectory.UI.deps.json
+C:\Projects\Task-5\EmployeeDirectory\EmployeeDirectory.UI\bin\Debug\net8.0\EmployeeDirectory.UI.runtimeconfig.json
+C:\Projects\Task-5\EmployeeDirectory\EmployeeDirectory.UI\bin\Debug\net8.0\EmployeeDirectory.UI.dll
+C:\Projects\Task-5\EmployeeDirectory\EmployeeDirectory.UI\bin\Debug\net8.0\EmployeeDirectory.UI.pdb
+C:\Projects\Task-5\EmployeeDirectory\EmployeeDirectory.UI\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Projects\Task-5\EmployeeDirectory\EmployeeDirectory.UI\bin\Debug\net8.0\EmployeeDirectory.Business.dll
+C:\Projects\Task-5\EmployeeDirectory\EmployeeDirectory.UI\bin\Debug\net8.0\EmployeeDirectory.Data.dll
+C:\Projects\Task-5\EmployeeDirectory\EmployeeDirectory.UI\bin\Debug\net8.0\EmployeeDirectory.Models.dll
+C:\Projects\Task-5\EmployeeDirectory\EmployeeDirectory.UI\bin\Debug\net8.0\EmployeeDirectory.Business.pdb
+C:\Projects\Task-5\EmployeeDirectory\EmployeeDirectory.UI\bin\Debug\net8.0\EmployeeDirectory.Data.pdb
+C:\Projects\Task-5\EmployeeDirectory\EmployeeDirectory.UI\bin\Debug\net8.0\EmployeeDirectory.Models.pdb
+C:\Projects\Task-5\EmployeeDirectory\EmployeeDirectory.UI\obj\Debug\net8.0\EmployeeDirectory.UI.csproj.AssemblyReference.cache
+C:\Projects\Task-5\EmployeeDirectory\EmployeeDirectory.UI\obj\Debug\net8.0\EmployeeDirectory.UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Task-5\EmployeeDirectory\EmployeeDirectory.UI\obj\Debug\net8.0\EmployeeDirectory.UI.AssemblyInfoInputs.cache
+C:\Projects\Task-5\EmployeeDirectory\EmployeeDirectory.UI\obj\Debug\net8.0\EmployeeDirectory.UI.AssemblyInfo.cs
+C:\Projects\Task-5\EmployeeDirectory\EmployeeDirectory.UI\obj\Debug\net8.0\EmployeeDirectory.UI.csproj.CoreCompileInputs.cache
+C:\Projects\Task-5\EmployeeDirectory\EmployeeDirectory.UI\obj\Debug\net8.0\EmployeeDirectory.UI.sourcelink.json
+C:\Projects\Task-5\EmployeeDirectory\EmployeeDirectory.UI\obj\Debug\net8.0\EmployeeDirectory.UI.csproj.CopyComplete
+C:\Projects\Task-5\EmployeeDirectory\EmployeeDirectory.UI\obj\Debug\net8.0\EmployeeDirectory.UI.dll
+C:\Projects\Task-5\EmployeeDirectory\EmployeeDirectory.UI\obj\Debug\net8.0\refint\EmployeeDirectory.UI.dll
+C:\Projects\Task-5\EmployeeDirectory\EmployeeDirectory.UI\obj\Debug\net8.0\EmployeeDirectory.UI.pdb
+C:\Projects\Task-5\EmployeeDirectory\EmployeeDirectory.UI\obj\Debug\net8.0\EmployeeDirectory.UI.genruntimeconfig.cache
+C:\Projects\Task-5\EmployeeDirectory\EmployeeDirectory.UI\obj\Debug\net8.0\ref\EmployeeDirectory.UI.dll

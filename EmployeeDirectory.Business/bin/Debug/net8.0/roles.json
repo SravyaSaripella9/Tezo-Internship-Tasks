@@ -1,0 +1,44 @@
+[
+  {
+    "Id": "91b7534c-db88-403a-963e-df6969b7e2c7",
+    "Name": "Full Stack Developer",
+    "DepartmentId": 2,
+    "Description": "dsf",
+    "LocationId": 1
+  },
+  {
+    "Id": "65b86bc4-5fe9-4236-bad6-fa7e058e3ef1",
+    "Name": "Customer Service Manager",
+    "DepartmentId": 1,
+    "Description": "",
+    "LocationId": 3
+  },
+  {
+    "Id": "4a5628e0-127e-4aff-a528-9a199a40380e",
+    "Name": "Human Resources Manager",
+    "DepartmentId": 4,
+    "Description": "",
+    "LocationId": 6
+  },
+  {
+    "Id": "a969ea42-e9cb-47f8-9f9f-396cc2e1f278",
+    "Name": "UX Designer",
+    "DepartmentId": 3,
+    "Description": "",
+    "LocationId": 2
+  },
+  {
+    "Id": "48aa0ff5-8f7f-4a4b-b2da-7c7214e0e08f",
+    "Name": "Junior Software Developer",
+    "DepartmentId": 2,
+    "Description": "",
+    "LocationId": 4
+  },
+  {
+    "Id": "7f2b92de-b656-4995-b28a-2047e87131ee",
+    "Name": "Lead Developer",
+    "DepartmentId": 2,
+    "Description": "",
+    "LocationId": 5
+  }
+]
