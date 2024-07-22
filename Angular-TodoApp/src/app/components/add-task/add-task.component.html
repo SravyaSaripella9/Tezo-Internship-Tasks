@@ -1,0 +1,15 @@
+<div class="add-or-edit-task-popup">
+    <form [formGroup]="addOrEditTaskForm">
+        <input type="text" placeholder="Add title" class="title" formControlName="title" />
+        <input type="text" placeholder="Add description" class="description" formControlName="description" />
+        <input type="date" placeholder="Add task date" class="task-date" formControlName="taskDate" />
+        <!-- <label>{{invalidMessage}}</label>
+        <label>{{responseDetails.message}}</label> -->
+    </form>
+    <div class="add-or-edit-task-buttons">
+        <button type="button" class="cancel-button" (click)="closeAddTaskPopup()"
+            (click)="closeEditTaskPopup()">Cancel</button>
+        <button type="button" class="save-button" (click)="closeAddTaskPopup()" (click)="addOrEditTask(taskToBeEdited)"
+            (click)="closeEditTaskPopup()">Save</button>
+    </div>
+</div>

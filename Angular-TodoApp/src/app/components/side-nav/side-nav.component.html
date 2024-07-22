@@ -1,0 +1,19 @@
+<div class="side-nav">
+    <div class="side-nav-header">
+        <h1>To-Do App</h1>
+    </div>
+    <div class="side-nav-content">
+        <div class="side-nav-button">
+            <div class="add-task" (click)="addTask()">
+                <button type="button" >Add Task</button>
+                <div>+</div>
+            </div>
+        </div>
+        <div class="side-nav-options">
+            <a routerLinkActive="active" routerLink="/dashboard">Dashboard</a>
+            <a routerLinkActive="active" routerLink="/active">Active</a>
+            <a routerLinkActive="active" routerLink="/completed">Completed</a>
+            <a routerLinkActive="active" routerLink="/pending">Pending</a>
+        </div>
+    </div>
+</div>

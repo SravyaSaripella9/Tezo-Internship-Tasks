@@ -1,0 +1,14 @@
+<app-header heading="Active"></app-header>
+<div class="active-container">
+    <div class="active-tasks">
+        <div class="active-tasks-header">
+            <div>Today's Active Tasks</div>
+            <div>{{currentDate}}</div>
+        </div>
+    </div>
+    <div class="active-tasks-details">
+        <div class="cards">
+            <app-task-list [tasks]="activeTasks" status="Active" (onEdit)="openEditTaskPopup($event)" (updateTaskListEvent)="updateTaskList()"></app-task-list>
+        </div>
+    </div>
+</div>

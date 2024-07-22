@@ -1,0 +1,38 @@
+<header *ngIf = "mediaType == 'Laptop'">
+    <div class="component-heading">
+        {{heading}}
+    </div>
+    <div class="sign-out" (click)="signout()">
+        <div>Sign out</div>
+        <div>
+            <img src="assets/sign-out.svg" alt="Sign out" />
+        </div>
+    </div>
+</header>
+
+<div class="mobile-view-header" *ngIf = "mediaType == 'Mobile'">
+    <div class="header">
+        <div class="app-title">
+            <h1>To-Do App</h1>
+        </div>
+        <div class="header-buttons">
+            <div class="add-task" (click)="addTask()">
+                <button type="button">Add Task</button>
+                <div>+</div>
+            </div>
+            <div class="sign-out" (click)="signout()">
+                <div>Sign out</div>
+                <div>
+                    <img src="assets/sign-out.svg" alt="Sign out" />
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="dropdown">
+        <select (change)="onChange($event)">
+            <option value="dashboard">Dashboard</option>
+            <option value="active">Active</option>
+            <option value="completed">Completed</option>
+        </select>
+    </div>
+</div>

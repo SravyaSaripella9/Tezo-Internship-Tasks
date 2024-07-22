@@ -1,0 +1,18 @@
+<div class="main-container" *ngIf="mediaType=='Laptop'"
+    [class.blur-main-container]="isAddTaskPopupVisible || isEditTaskPopupVisible">
+    <app-side-nav (onAddTaskEvent)="showAddTaskPopup()"></app-side-nav>
+    <div class="main-body">
+        <router-outlet (activate)="subscribeToEmitter($event)" />
+    </div>
+</div>
+
+<div class="add-task-container" [class.display-add-task]="isAddTaskPopupVisible || isEditTaskPopupVisible">
+    <app-add-task [taskToBeEdited]=taskToBeEdited (onCloseAddTaskPopupEvent)="hideAddTaskPopup()"
+        (onCloseEditTaskPopupEvent)="hideEditTaskPopup()"></app-add-task>
+</div>
+
+<div class="mobile-view-main-container" *ngIf="mediaType=='Mobile'"
+    [class.blur-mobile-view-main-container]="isAddTaskPopupVisible || isEditTaskPopupVisible">
+    <app-header (onAddTaskEvent)="showAddTaskPopup()" (onDropdownClick)="navigateTo($event)"></app-header>
+    <router-outlet (activate)="subscribeToEmitter($event)" />
+</div>

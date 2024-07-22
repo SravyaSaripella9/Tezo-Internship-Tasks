@@ -1,0 +1,14 @@
+<app-header heading="Pending"></app-header>
+<div class="pending-container">
+    <div class="pending-tasks">
+        <div class="pending-tasks-header">
+            <div>Pending Tasks</div>
+            <!-- <div>{{currentDate}}</div> -->
+        </div>
+    </div>
+    <div class="pending-tasks-details">
+        <div class="cards">
+            <app-task-list [tasks]="pendingTasks" status="Pending" (onEdit)="openEditTaskPopup($event)"></app-task-list>
+        </div>
+    </div>
+</div>

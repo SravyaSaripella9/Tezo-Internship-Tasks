@@ -1,0 +1,54 @@
+<app-header heading="Dashboard" *ngIf="mediaType == 'Laptop'"></app-header>
+<div class="dashboard-container" *ngIf="mediaType == 'Laptop'">
+    <div class="dashboard-banner">
+        <div class="dashboard-banner-content">
+            <h1>Hello, Beautiful {{nameOfUser}}</h1>
+            <p>What do you want to do today?</p>
+        </div>
+        <div class="dashboard-banner-image">
+            <img src="assets/user.png" alt="User" />
+        </div>
+    </div>
+    <div class="tasks">
+        <div class="tasks-header">
+            <div>
+                <div>Today's Tasks</div>
+                <div (click)="deleteAllTasks()">Delete All</div>
+            </div>
+            <div>{{currentDate}}</div>
+        </div>
+        <div class="tasks-details">
+            <div class="cards">
+                <app-task-list [tasks]=tasks></app-task-list>
+            </div>
+            <app-statistics></app-statistics>
+        </div>
+    </div>
+</div>
+
+<div class="mobile-view-dashboard-container" *ngIf="mediaType == 'Mobile'">
+    <div class="dashboard-banner">
+        <div class="dashboard-banner-content">
+            <h1>Hello, Beautiful Human!</h1>
+            <p>What do you want to do today?</p>
+        </div>
+        <div class="dashboard-banner-image">
+            <img src="assets/user.png" alt="User" />
+        </div>
+    </div>
+    <app-statistics></app-statistics>
+    <div class="tasks">
+        <div class="mobile-view-tasks-header">
+            <div>Today's Tasks</div>
+            <div>
+                <div (click)="deleteAllTasks()">Delete All</div>
+                <div>{{currentDate}}</div>
+            </div>
+        </div>
+        <div class="tasks-details">
+            <div class="cards">
+                <app-task-list [tasks]=tasks></app-task-list>
+            </div>
+        </div>
+    </div>
+</div>

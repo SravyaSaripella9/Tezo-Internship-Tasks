@@ -1,0 +1,45 @@
+.main-container {
+    display: flex;
+    position: relative;
+}
+
+.main-body {
+    display: flex;
+    flex-direction: column;
+    margin: 2vh 0 0 5vw;
+}
+
+.add-task-container {
+    display: none;
+}
+
+.display-add-task {
+    display: flex;
+    position: absolute;
+    top: 21vh;
+    left: 28vw;
+}
+
+.blur-main-container {
+    filter: blur(2px);
+}
+
+app-add-task {
+    z-index: 1;
+}
+
+@media screen and (max-width:600px) {
+    .mobile-view-main-container {
+        display: flex;
+        flex-direction: column;
+        margin: 2vh 4vw;
+    }
+
+    .blur-mobile-view-main-container {
+        filter: blur(2px);
+    }
+
+    .display-add-task {
+        left: 10vw;
+    }
+}

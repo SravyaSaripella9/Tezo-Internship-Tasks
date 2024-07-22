@@ -1,0 +1,25 @@
+<div class="container">
+    <div class="sign-in-container">
+        <div class="sign-in-header">
+            <h1>To-Do App</h1>
+            <p>Start organizing your life day by day</p>
+        </div>
+        <div class="sign-in-form">
+            <form [formGroup]="signinForm">
+                <input type="text" placeholder="Enter your username" class="username" formControlName="userName"/>
+                <div class="password-container">
+                    <input type="text" placeholder="Enter your password" class="password" formControlName="password"/>
+                    <div class="eye-icon">
+                        <img src="assets/eye-icon-orange.svg" alt="Eye" />
+                    </div>
+                </div>
+                <label>{{invalidMessage}}</label>
+                <label>{{responseDetails.message}}</label>
+            </form>
+        </div>
+        <div class="sign-in-footer">
+            <a (click)="onSignin()"><div>Sign In</div></a>
+            <p>Don't have an account? Create <a routerLink="/signup">here</a>.</p>
+        </div>
+    </div>
+</div>

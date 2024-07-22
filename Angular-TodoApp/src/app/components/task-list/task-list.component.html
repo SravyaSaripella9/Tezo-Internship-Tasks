@@ -1,0 +1,39 @@
+<div class="card-component">
+    <div *ngFor="let task of tasks; index as i">
+        <div class="card" (click)="displayCardDetails(i, task.CreatedOn, task.CompletedOn)"
+            [style.background]="task.IsCompleted ? '#EDB046' : 'white'">
+            <div class="checkbox">
+                <img *ngIf=!task.IsCompleted src="assets/checkbox-orange.svg " alt="Checkbox" (click)="markAsCompleted(task)"/>
+                <img *ngIf=task.IsCompleted src="assets/checkbox-brown.svg " alt="Checkbox" (click)="markAsIncomplete(task)"/>
+            </div>
+            <div>{{task.Title}}</div>
+            <div class="card-details" *ngIf="cardDetails==i && (status == 'Active' || status == 'Completed' || status == 'Pending')"
+                [style.background]="task.IsCompleted ? '#EDB046' : 'white'">
+                <div class="card-details-header">
+                    <div>{{task.Title}}</div>
+                    <div *ngIf="!task.IsCompleted" [style.color]="task.IsCompleted ? '#BA5112' : '#B5B5B5'">Added {{createdTimeDifference}}</div>
+                    <div *ngIf="task.IsCompleted" [style.color]="task.IsCompleted ? '#BA5112' : '#B5B5B5'">Completed {{completedTimeDifference}}</div>
+                </div>
+                <div class="description">
+                    <div>Description</div>
+                    <div>{{task.Description}}</div>
+                </div>
+                <div class="tools">
+                    <div>
+                        <img *ngIf=!task.IsCompleted src="assets/checkbox-orange.svg " alt="Checkbox" (click)="markAsCompleted(task)"/>
+                        <img *ngIf=task.IsCompleted src="assets/checkbox-brown.svg " alt="Checkbox" (click)="markAsIncomplete(task)"/>
+                    </div>
+                    <div>
+                        <div [style.display]="task.IsCompleted ? 'hidden' : 'flex'">
+                            <img src="assets/edit-icon.svg" alt="Edit" (click)="openEditTaskPopup(task)" />
+                        </div>
+                        <div>
+                            <img [src]="task.IsCompleted ? 'assets/delete-icon-brown.svg' : 'assets/delete-icon-orange.svg'"
+                                alt="Delete" (click)="deleteTask(task.Id)" />
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

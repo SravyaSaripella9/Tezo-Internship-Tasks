@@ -1,0 +1,25 @@
+C:\Users\sravya.saripella\Documents\Internship Tasks\ToDo Application - Web API\ToDoApp\ToDoApp.Models\bin\Debug\net8.0\ToDoApp.Models.deps.json
+C:\Users\sravya.saripella\Documents\Internship Tasks\ToDo Application - Web API\ToDoApp\ToDoApp.Models\bin\Debug\net8.0\ToDoApp.Models.dll
+C:\Users\sravya.saripella\Documents\Internship Tasks\ToDo Application - Web API\ToDoApp\ToDoApp.Models\bin\Debug\net8.0\ToDoApp.Models.pdb
+C:\Users\sravya.saripella\Documents\Internship Tasks\ToDo Application - Web API\ToDoApp\ToDoApp.Models\obj\Debug\net8.0\ToDoApp.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sravya.saripella\Documents\Internship Tasks\ToDo Application - Web API\ToDoApp\ToDoApp.Models\obj\Debug\net8.0\ToDoApp.Models.AssemblyInfoInputs.cache
+C:\Users\sravya.saripella\Documents\Internship Tasks\ToDo Application - Web API\ToDoApp\ToDoApp.Models\obj\Debug\net8.0\ToDoApp.Models.AssemblyInfo.cs
+C:\Users\sravya.saripella\Documents\Internship Tasks\ToDo Application - Web API\ToDoApp\ToDoApp.Models\obj\Debug\net8.0\ToDoApp.Models.csproj.CoreCompileInputs.cache
+C:\Users\sravya.saripella\Documents\Internship Tasks\ToDo Application - Web API\ToDoApp\ToDoApp.Models\obj\Debug\net8.0\ToDoApp.Models.dll
+C:\Users\sravya.saripella\Documents\Internship Tasks\ToDo Application - Web API\ToDoApp\ToDoApp.Models\obj\Debug\net8.0\refint\ToDoApp.Models.dll
+C:\Users\sravya.saripella\Documents\Internship Tasks\ToDo Application - Web API\ToDoApp\ToDoApp.Models\obj\Debug\net8.0\ToDoApp.Models.pdb
+C:\Users\sravya.saripella\Documents\Internship Tasks\ToDo Application - Web API\ToDoApp\ToDoApp.Models\obj\Debug\net8.0\ref\ToDoApp.Models.dll
+C:\Users\sravya.saripella\Documents\Internship Tasks\ToDo Application - Web API\ToDoApp\ToDoApp.Models\obj\Debug\net8.0\ToDoApp.Models.sourcelink.json
+C:\Users\sravya.saripella\Documents\Internship Tasks\ToDo Application - Web API\ToDoApp\ToDoApp.Models\obj\Debug\net8.0\ToDoApp.Models.csproj.AssemblyReference.cache
+C:\Projects\Task-12-To-Do Application-Angular\ToDoApp-Web API\ToDoApp.Models\bin\Debug\net8.0\ToDoApp.Models.deps.json
+C:\Projects\Task-12-To-Do Application-Angular\ToDoApp-Web API\ToDoApp.Models\bin\Debug\net8.0\ToDoApp.Models.dll
+C:\Projects\Task-12-To-Do Application-Angular\ToDoApp-Web API\ToDoApp.Models\bin\Debug\net8.0\ToDoApp.Models.pdb
+C:\Projects\Task-12-To-Do Application-Angular\ToDoApp-Web API\ToDoApp.Models\obj\Debug\net8.0\ToDoApp.Models.csproj.AssemblyReference.cache
+C:\Projects\Task-12-To-Do Application-Angular\ToDoApp-Web API\ToDoApp.Models\obj\Debug\net8.0\ToDoApp.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Task-12-To-Do Application-Angular\ToDoApp-Web API\ToDoApp.Models\obj\Debug\net8.0\ToDoApp.Models.AssemblyInfoInputs.cache
+C:\Projects\Task-12-To-Do Application-Angular\ToDoApp-Web API\ToDoApp.Models\obj\Debug\net8.0\ToDoApp.Models.AssemblyInfo.cs
+C:\Projects\Task-12-To-Do Application-Angular\ToDoApp-Web API\ToDoApp.Models\obj\Debug\net8.0\ToDoApp.Models.csproj.CoreCompileInputs.cache
+C:\Projects\Task-12-To-Do Application-Angular\ToDoApp-Web API\ToDoApp.Models\obj\Debug\net8.0\ToDoApp.Models.dll
+C:\Projects\Task-12-To-Do Application-Angular\ToDoApp-Web API\ToDoApp.Models\obj\Debug\net8.0\refint\ToDoApp.Models.dll
+C:\Projects\Task-12-To-Do Application-Angular\ToDoApp-Web API\ToDoApp.Models\obj\Debug\net8.0\ToDoApp.Models.pdb
+C:\Projects\Task-12-To-Do Application-Angular\ToDoApp-Web API\ToDoApp.Models\obj\Debug\net8.0\ref\ToDoApp.Models.dll

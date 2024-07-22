@@ -1,0 +1,32 @@
+<div class="container">
+    <div class="sign-up-container">
+        <div class="sign-up-header">
+            <h1>To-Do App</h1>
+            <p>Start organizing your life day by day</p>
+        </div>
+        <div class="sign-up-form">
+            <form [formGroup]="signupForm">
+                <div class="name-container">
+                    <input type="text" placeholder="First Name" formControlName = "firstName"/>
+                    <input type="text" placeholder="Last Name" formControlName = "lastName"/>
+                </div>
+                <div class="username-and-email-container">
+                    <input type="text" placeholder="Username" formControlName="userName"/>
+                    <input type="email" placeholder="Email" formControlName="email"/>
+                </div>
+                <div class="password-container">
+                    <input type="text" placeholder="Password" class="password" formControlName="password"/>
+                    <div class="eye-icon">
+                        <img src="assets/eye-icon-brown.svg" alt="Eye" />
+                    </div>
+                </div>
+                <label>{{invalidMessage}}</label>
+                <label>{{responseDetails.message}}</label>
+            </form>
+        </div>
+        <div class="sign-up-footer">
+            <a (click)="onSignup()"><div>Sign Up</div></a>
+            <p>Already have an account? Sign in <a routerLink="/signin">here</a>.</p>
+        </div>
+    </div>
+</div>

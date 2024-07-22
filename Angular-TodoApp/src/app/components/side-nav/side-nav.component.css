@@ -1,0 +1,120 @@
+.side-nav {
+    display: flex;
+    flex-direction: column;
+    width: 16vw;
+    background: #FFFFFF;
+    gap: 32px;
+}
+
+.side-nav-header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.side-nav-header h1 {
+    font-weight: 700;
+    font-size: 28px;
+    color: #BA5112;
+}
+
+.side-nav-content {
+    display: flex;
+    flex-direction: column;
+    gap: 60px;
+    align-items: center;
+}
+
+.side-nav-button {
+    display: flex;
+    flex-direction: column;
+}
+
+.add-task {
+    display: flex;
+    flex-direction: row;
+    padding: 12px 24px;
+    gap: 12px;
+    background: white;
+    border-radius: 7px;
+    box-shadow: 0px 0px 20px 0px #0000001A;
+    cursor: pointer;
+}
+
+.add-task button {
+    border: none;
+    outline: none;
+    background: white;
+    cursor: pointer;
+    font-family: Lexend;
+}
+
+.add-task div {
+    background-color: #BA5112;
+    border-radius: 50px;
+    color: white;
+    width: 2vw;
+    align-content: center;
+    text-align: center;
+    font-weight: 300;
+}
+
+.side-nav-options {
+    display: flex;
+    flex-direction: column;
+    gap: 32px;
+    align-items: center;
+}
+
+.side-nav-options a {
+    text-decoration: none;
+    color: #251814;
+    font-size: 14px;
+    font-weight: 400;
+    width: 16vw;
+    padding: 12px 0;
+    cursor: pointer;
+    text-align: center;
+}
+
+.side-nav-options a:hover{
+    background: #EDB046;
+}
+
+.active {
+    background: #EDB046;
+}
+
+@media screen and (max-width: 945px) {
+    .side-nav-header h1 {
+        font-size: 20px;
+    }
+}
+
+@media screen and (max-width: 905px) {
+    .add-task {
+        padding: 12px;
+    }
+}
+
+@media screen and (max-width: 905px) {
+    .add-task {
+        padding: 12px 8px;
+    }
+}
+
+@media screen and (max-width: 676px) {
+    .side-nav-header h1 {
+        font-size: 17px;
+    }
+
+    .add-task {
+        gap: 4px;
+    }
+}
+
+@media screen and (max-width: 620px) {
+    .add-task {
+        padding: 12px 4px;
+    }
+}

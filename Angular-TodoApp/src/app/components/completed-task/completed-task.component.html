@@ -1,0 +1,14 @@
+<app-header heading="Completed"></app-header>
+<div class="completed-container">
+    <div class="completed-tasks">
+        <div class="completed-tasks-header">
+            <div>Today's Completed Tasks</div>
+            <div>{{currentDate}}</div>
+        </div>
+    </div>
+    <div class="completed-tasks-details">
+        <div class="cards">
+            <app-task-list [tasks]="completedTasks" status="Completed" (updateTaskListEvent)="updateTaskList()"></app-task-list>
+        </div>
+    </div>
+</div>

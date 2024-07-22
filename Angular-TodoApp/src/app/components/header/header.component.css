@@ -1,0 +1,168 @@
+header {
+    display: flex;
+    margin: 2vh 0 10vh 0;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.component-heading {
+    font-size: 23px;
+    font-weight: 400;
+}
+
+.sign-out {
+    display: flex;
+    align-items: center;
+    background: #BA5112;
+    padding: 12px 24px;
+    font-size: 14px;
+    font-weight: 400;
+    border-radius: 8px;
+    gap: 12px;
+    color: white;
+    cursor: pointer;
+}
+
+.sign-out img {
+    width: 16px;
+    height: 16px;
+}
+
+@media screen and (max-width:750px) {
+    .component-heading {
+        font-size: 20px;
+    }
+
+    .sign-out {
+        font-size: 12px;
+        padding: 12px 18px;
+    }
+}
+
+@media screen and (max-width:600px) {
+    .mobile-view-header {
+        display: flex;
+        flex-direction: column;
+        gap: 5vh;
+    }
+
+    .header {
+        display: flex;
+        justify-content: space-between;
+    }
+
+    .app-title {
+        display: flex;
+    }
+
+    .app-title h1 {
+        font-weight: 700;
+        font-size: 28px;
+        color: #BA5112;
+    }
+
+    .header-buttons {
+        display: flex;
+        align-items: center;
+        gap: 5vw;
+    }
+
+    .add-task {
+        display: flex;
+        padding: 12px 16px;
+        border-radius: 7px;
+        justify-content: center;
+        align-items: center;
+        box-shadow: 0px 0px 20px 0px #0000001A;
+        cursor: pointer;
+        gap: 12px;
+    }
+
+    .add-task button {
+        background: white;
+        border: none;
+        outline: none;
+        cursor: pointer;
+        font-weight: 400;
+        font-size: 15px;
+    }
+
+    .add-task div {
+        background-color: #BA5112;
+        border-radius: 50px;
+        color: white;
+        width: 5vw;
+        align-content: center;
+        text-align: center;
+        font-weight: 600;
+        font-size: 20px;
+    }
+
+    .sign-out {
+        padding: 12px 16px;
+    }
+
+    .sign-out div {
+        justify-content: center;
+    }
+
+    .dropdown {
+        display: flex;
+        margin: 0 2vw;
+    }
+
+    .dropdown select {
+        display: flex;
+        width: 88vw;
+        border-radius: 8px;
+        background: #EDB046;
+        border: none;
+        outline: none;
+        padding: 12px 16px;
+    }
+
+    .dropdown select option {
+        background: white;
+    }
+}
+
+@media screen and (max-width:475px) {
+    .app-title h1 {
+        font-size: 20px;
+    }
+
+    .add-task {
+        padding: 12px;
+    }
+
+    .add-task div {
+        font-size: 15px;
+    }
+
+    .add-task button {
+        font-size: 12px;
+    }
+
+    .sign-out {
+        padding: 10px 12px;
+        font-size: 10px;
+    }
+
+    .sign-out div img {
+        width: 12px;
+    }
+}
+
+@media screen and (max-width:375px) {
+    .header-buttons {
+        gap: 3vw;
+    }
+
+    .add-task {
+        padding: 10px 8px;
+    }
+
+    .sign-out {
+        padding: 8px;
+    }
+}

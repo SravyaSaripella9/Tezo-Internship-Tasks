@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "EMZk5Vp/LCOppenOOO5YmDflmyC3kPiYKaWQyDq4eDTpMohNA+lbfn31/NF6rnb8YKjw+KGGlBQj08dUlgBk0g==",
+  "success": true,
+  "projectFilePath": "C:\\Projects\\Task-12-To-Do Application-Angular\\ToDoApp-Web API\\ToDoApp.Models\\ToDoApp.Models.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sravya.saripella\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,11 @@
+<div class="stats">
+    <div class="stat" *ngFor="let statistic of statistics">
+        <div>
+            <img [src]="statistic.Category == 'Active Tasks' ? 'assets/tick-mark.svg' : 'assets/clock.svg'" alt="Statistics" />
+        </div>
+        <div>
+            <div>{{statistic.Percentage}}%</div>
+            <div>{{statistic.Category}}</div>
+        </div>
+    </div>
+</div>
