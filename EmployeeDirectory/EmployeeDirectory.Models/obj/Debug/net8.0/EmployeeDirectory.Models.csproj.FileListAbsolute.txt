@@ -1,0 +1,22 @@
+C:\Users\sravya.saripella\Documents\Internship Tasks\C# - Entity Framework - Code First\EmployeeDirectory\EmployeeDirectory.Models\bin\Debug\net8.0\EmployeeDirectory.Models.deps.json
+C:\Users\sravya.saripella\Documents\Internship Tasks\C# - Entity Framework - Code First\EmployeeDirectory\EmployeeDirectory.Models\bin\Debug\net8.0\EmployeeDirectory.Models.dll
+C:\Users\sravya.saripella\Documents\Internship Tasks\C# - Entity Framework - Code First\EmployeeDirectory\EmployeeDirectory.Models\bin\Debug\net8.0\EmployeeDirectory.Models.pdb
+C:\Users\sravya.saripella\Documents\Internship Tasks\C# - Entity Framework - Code First\EmployeeDirectory\EmployeeDirectory.Models\obj\Debug\net8.0\EmployeeDirectory.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sravya.saripella\Documents\Internship Tasks\C# - Entity Framework - Code First\EmployeeDirectory\EmployeeDirectory.Models\obj\Debug\net8.0\EmployeeDirectory.Models.AssemblyInfoInputs.cache
+C:\Users\sravya.saripella\Documents\Internship Tasks\C# - Entity Framework - Code First\EmployeeDirectory\EmployeeDirectory.Models\obj\Debug\net8.0\EmployeeDirectory.Models.AssemblyInfo.cs
+C:\Users\sravya.saripella\Documents\Internship Tasks\C# - Entity Framework - Code First\EmployeeDirectory\EmployeeDirectory.Models\obj\Debug\net8.0\EmployeeDirectory.Models.csproj.CoreCompileInputs.cache
+C:\Users\sravya.saripella\Documents\Internship Tasks\C# - Entity Framework - Code First\EmployeeDirectory\EmployeeDirectory.Models\obj\Debug\net8.0\EmployeeDirectory.Models.dll
+C:\Users\sravya.saripella\Documents\Internship Tasks\C# - Entity Framework - Code First\EmployeeDirectory\EmployeeDirectory.Models\obj\Debug\net8.0\refint\EmployeeDirectory.Models.dll
+C:\Users\sravya.saripella\Documents\Internship Tasks\C# - Entity Framework - Code First\EmployeeDirectory\EmployeeDirectory.Models\obj\Debug\net8.0\EmployeeDirectory.Models.pdb
+C:\Users\sravya.saripella\Documents\Internship Tasks\C# - Entity Framework - Code First\EmployeeDirectory\EmployeeDirectory.Models\obj\Debug\net8.0\ref\EmployeeDirectory.Models.dll
+C:\Projects\Task-10-Entity Framework-Code First\EmployeeDirectory\EmployeeDirectory.Models\bin\Debug\net8.0\EmployeeDirectory.Models.deps.json
+C:\Projects\Task-10-Entity Framework-Code First\EmployeeDirectory\EmployeeDirectory.Models\bin\Debug\net8.0\EmployeeDirectory.Models.dll
+C:\Projects\Task-10-Entity Framework-Code First\EmployeeDirectory\EmployeeDirectory.Models\bin\Debug\net8.0\EmployeeDirectory.Models.pdb
+C:\Projects\Task-10-Entity Framework-Code First\EmployeeDirectory\EmployeeDirectory.Models\obj\Debug\net8.0\EmployeeDirectory.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Task-10-Entity Framework-Code First\EmployeeDirectory\EmployeeDirectory.Models\obj\Debug\net8.0\EmployeeDirectory.Models.AssemblyInfoInputs.cache
+C:\Projects\Task-10-Entity Framework-Code First\EmployeeDirectory\EmployeeDirectory.Models\obj\Debug\net8.0\EmployeeDirectory.Models.AssemblyInfo.cs
+C:\Projects\Task-10-Entity Framework-Code First\EmployeeDirectory\EmployeeDirectory.Models\obj\Debug\net8.0\EmployeeDirectory.Models.csproj.CoreCompileInputs.cache
+C:\Projects\Task-10-Entity Framework-Code First\EmployeeDirectory\EmployeeDirectory.Models\obj\Debug\net8.0\EmployeeDirectory.Models.dll
+C:\Projects\Task-10-Entity Framework-Code First\EmployeeDirectory\EmployeeDirectory.Models\obj\Debug\net8.0\refint\EmployeeDirectory.Models.dll
+C:\Projects\Task-10-Entity Framework-Code First\EmployeeDirectory\EmployeeDirectory.Models\obj\Debug\net8.0\EmployeeDirectory.Models.pdb
+C:\Projects\Task-10-Entity Framework-Code First\EmployeeDirectory\EmployeeDirectory.Models\obj\Debug\net8.0\ref\EmployeeDirectory.Models.dll
