@@ -1,0 +1,40 @@
+<header>
+    <div class="header">
+        <div class="header-logo" #headerLogo>
+            <img src="assets/tezologo.svg" alt="logo" />
+        </div>
+        <div class="side-arrow">
+            <img src="assets/sidearrow.png" alt="sidearrow" #sideArrow (click)="displaySideNav()"/>
+        </div>
+        <div class="main-navigation" #mainNav>
+            <div class="search">
+                <div class="search-icon">
+                    <img src="assets/search.png" alt="search-icon" />
+                </div>
+                <div class="search-bar">
+                    <input type="search" placeholder="Search" onkeyup="filterEmployeesByName()">
+                </div>
+            </div>
+            <div class="header-icons">
+                <div class="icons">
+                    <div><img src="assets/language.png" alt="language" /></div>
+                    <div><img src="assets/card.png" alt="card-icon" /></div>
+                    <div><img src="assets/mode.png" alt="mode" /></div>
+                    <div><img src="assets/notifications.png" alt="notifications" /></div>
+                </div>
+                <div class="account">
+                    <div class="profile-photo">
+                        <img src="assets/profilephoto.png" alt="profile-photo" />
+                    </div>
+                    <div class="profile-details">
+                        <div id="name">John Abraham</div>
+                        <div id="role">Admin</div>
+                    </div>
+                    <div class="down-arrow">
+                        <img src="assets/down-arrow.png" alt="down-arrow" />
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</header>

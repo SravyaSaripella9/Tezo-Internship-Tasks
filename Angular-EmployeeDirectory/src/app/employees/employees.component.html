@@ -1,0 +1,163 @@
+<div class="employees-header">
+    <div class="employees-text">
+        <div>Employees</div>
+        <div>Find all of your company's employee accounts and their associated roles.</div>
+    </div>
+    <div class="employees-buttons">
+        <div class="export-button" onclick="exportData()">
+            <div class="export-icon">
+                <img src="assets/export-icon.png" alt="export-icon" />
+            </div>
+            <div class="export-text">EXPORT</div>
+        </div>
+        <div class="add-employee-button">
+            <a href="../add-employee/add-employee.html" title="Add Employee">
+                <div class="plus-icon">
+                    <img src="assets/plus-icon.png" alt="plus-icon" />
+                </div>
+                <div class="add-text">ADD EMPLOYEE</div>
+            </a>
+        </div>
+    </div>
+</div>
+<div class="alphabetical-grids">
+    <div class="filter-icon">
+        <img src="assets/filter-black.svg" alt="filter-icon" class="filter-black-image" />
+        <img src="assets/filter-red.svg" alt="filter-icon" class="filter-red-image" onclick="changeFilterIconColor()" />
+    </div>
+    <div class="alphabetical-buttons-container" *ngFor="let charCode of charCodes">
+        <button class="alphabet-button" value={{charCode}}>{{charCode}}</button>
+    </div>
+</div>
+<div class="filter-tab">
+    <div class="filter-tab-left">
+        Filter
+        <img src="assets/filter.png" />
+        <div class="filter">
+            <div class="status" id="status" onclick="displayDropdown('status')">
+                Status
+                <img src="assets/down-arrow.png">
+            </div>
+            <div class="status-options">
+                <div class="status-option">
+                    Active
+                    <input type="checkbox" value="Active" />
+                </div>
+                <div class="status-option">
+                    Inactive
+                    <input type="checkbox" value="Inactive" />
+                </div>
+            </div>
+        </div>
+        <div class="filter">
+            <div class="location" id="location" onclick="displayDropdown('location')">
+                Location
+                <img src="assets/down-arrow.png">
+            </div>
+            <div class="location-options"></div>
+        </div>
+        <div class="filter">
+            <div class="department" id="department" onclick="displayDropdown('department')">
+                Department
+                <img src="assets/down-arrow.png">
+            </div>
+            <div class="department-options"></div>
+        </div>
+    </div>
+    <div class="filter-tab-buttons">
+        <button class="resetButton" title="Reset" onclick="resetFilter()">Reset</button>
+        <button class="applyButton" title="Apply" onclick="applyFilter()">Apply</button>
+    </div>
+</div>
+<div class="grid">
+    <div class="delete-component">
+        <div class="delete-button">
+            <img src="assets/arrow-turn-left-down.png" />
+            <button type="button" title="Delete">Delete</button>
+        </div>
+        <img src="assets/table-add.png" alt="table-add-icon" />
+    </div>
+    <div class="employees-table">
+        <table>
+            <thead>
+                <tr>
+                    <th class="check-box">
+                        <input type="checkbox" onchange="toggleAllEmployees(this)" />
+                    </th>
+                    <th class="table-header" onclick="sortColumn(1)">
+                        <div>
+                            USER
+                            <img class="up-down-arrow" src="assets/up-and-down-arrow.png" alt="up-and-down-arrow" />
+                        </div>
+                    </th>
+                    <th class="table-header" onclick="sortColumn(2)">
+                        <div>
+                            LOCATION
+                            <img class="up-down-arrow" src="assets/up-and-down-arrow.png" alt="up-and-down-arrow" />
+                        </div>
+                    </th>
+                    <th class="table-header" onclick="sortColumn(3)">
+                        <div>
+                            DEPARTMENT
+                            <img class="up-down-arrow" src="assets/up-and-down-arrow.png" alt="up-and-down-arrow" />
+                        </div>
+                    </th>
+                    <th class="table-header" onclick="sortColumn(4)">
+                        <div>
+                            ROLE
+                            <img class="up-down-arrow" src="assets/up-and-down-arrow.png" alt="up-and-down-arrow" />
+                        </div>
+                    </th>
+                    <th class="table-header" onclick="sortColumn(5)">
+                        <div>
+                            EMP NO
+                            <img class="up-down-arrow" src="assets/up-and-down-arrow.png" alt="up-and-down-arrow" />
+                        </div>
+                    </th>
+                    <th class="table-header" onclick="sortColumn(6)">
+                        <div>
+                            STATUS
+                            <img class="up-down-arrow" src="assets/up-and-down-arrow.png" alt="up-and-down-arrow" />
+                        </div>
+                    </th>
+                    <th class="table-header" onclick="sortColumn(7)">
+                        <div>
+                            JOIN DT
+                            <img class="up-down-arrow" src="assets/up-and-down-arrow.png" alt="up-and-down-arrow" />
+                        </div>
+                    </th>
+                    <th class="table-header">
+                        <button class="ellipsis-button">
+                            <img class="ellipsis" src="assets/ellipsis.png" alt="Ellipsis" />
+                        </button>
+                    </th>
+                </tr>
+            </thead>
+            <tbody class="employees-table-body">
+                <tr class="row" *ngFor="let employee of employees">
+                    <td class="check-box"><input type="checkbox"/></td>
+                    <td class="table-data">
+                        <div class="table-profile">
+                            <img src="">
+                            <div class="employee-details">
+                                <div class="employee-name">{{employee.firstName + " " + employee.lastName}}</div>
+                                <div class="employee-mail">{{employee.email}}</div>
+                            </div>
+                        </div>
+                    </td>
+                    <td class="table-data">{{employee.locationName || ""}}</td>
+                    <td class="table-data">{{employee.departmentName || ""}}</td>
+                    <td class="table-data">{{employee.roleName || ""}}</td>
+                    <td class="table-data">{{employee.empNo}}</td>
+                    <td class="table-data"><button class="active-button" title="Active">Active</button></td>
+                    <td class="table-data">{{employee.joinDate}}</td>
+                    <td class="table-data" id='cell-${i}'>
+                        <button class="ellipsis-button">
+                            <img class="ellipsis" src="../../../assets/ellipsis.png" alt="Ellipsis" />
+                        </button>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+</div>

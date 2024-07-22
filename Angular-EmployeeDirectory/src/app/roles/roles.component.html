@@ -1,0 +1,75 @@
+<div class="roles-header">
+    <div class="roles-text">
+        <div>Roles</div>
+        <div>All the roles are configured here</div>
+    </div>
+    <div class="roles-buttons">
+        <div class="add-role-button">
+            <a href="../add-role/add-role.html" title="Add Role">
+                <div class="plus-icon">
+                    <img src="assets/plus-icon.png" alt="plus-icon" />
+                </div>
+                <div class="add-text">ADD ROLE</div>
+            </a>
+        </div>
+    </div>
+</div>
+<div class="filter-tab">
+    <div class="filter-tab-left">
+        Filter
+        <img src="assets/filter.png" />
+        <div class="filter">
+            <div class="department" id="department" onclick="displayDropdown('department')">
+                Department
+                <img src="assets/down-arrow.png">
+            </div>
+            <div class="department-options"></div>
+        </div>
+        <div class="filter">
+            <div class="location" id="location" onclick="displayDropdown('location')">
+                Location
+                <img src="assets/down-arrow.png">
+            </div>
+            <div class="location-options"></div>
+        </div>
+    </div>
+    <div class="filter-tab-buttons">
+        <button class="resetButton" title="Reset" onclick="resetFilter()">Reset</button>
+        <button class="applyButton" title="Apply" onclick="applyFilter()">Apply</button>
+    </div>
+</div>
+<div class="cards">
+    <div class="card" *ngFor="let role of roles">
+        <div class="card-header">
+            <div>{{role.name}}</div>
+            <img src="assets/edit.svg" />
+        </div>
+        <div class="card-content">
+            <div class="category">
+                <img src="assets/department.svg" />
+                <div>Department</div>
+            </div>
+            <div class="value">{{role.departmentName}}</div>
+        </div>
+        <div class="card-content">
+            <div class="category">
+                <img src="assets/location.svg" />
+                <div>Location</div>
+            </div>
+            <div class="value">{{role.locationName}}</div>
+        </div>
+        <div class="card-content">
+            <div>Total Employees</div>
+            <div class="profiles" id='profiles-${roles[i].id}'>
+
+            </div>
+        </div>
+        <div class="card-footer">
+            <!-- <a href="../role-details/role-details.html?id=${roles[i].id}"> -->
+            <a routerLink="/role-details/:id">
+                View all Employees
+                <img src="assets/vector.svg" />
+            </a>
+        </div>
+    </div>
+</div>

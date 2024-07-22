@@ -1,0 +1,62 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Inter+Tight:ital,wght@0,100..900;1,100..900&display=swap');
+app-header{
+    margin: 0;
+    font-family: "Roboto", sans-serif;
+    background-color:#F9F9F9;
+} */
+.main-container{
+    display: flex;
+    width: 100%;
+    box-sizing: border-box;
+    padding-right: 20px;
+}
+.side-navigation{
+    display: flex;
+    flex-direction: column;
+    width: 20%;
+    height: calc(100vh-70px); 
+    overflow-y: scroll; 
+    background-color: white;
+    padding-left: 20px;
+}
+.side-navigation::-webkit-scrollbar {
+    width:5px;
+}
+.side-navigation::-webkit-scrollbar-track {
+    background: white; 
+}
+.side-navigation::-webkit-scrollbar-thumb {
+    background: #F44848; 
+    border-radius: 12px;
+}
+.main-body{
+    display: flex;
+    flex-direction: column;
+    width: 80%;
+    padding-left: 5px;
+    margin:1% 0 0 2%;
+}
+
+.side-nav-close{
+    ::ng-deep .side-navigation-component{
+        gap:24px;
+        width: 40px;
+    }
+    ::ng-deep .component-heading{
+        white-space: nowrap;
+        overflow: hidden;
+        width: 36px;
+    }
+    ::ng-deep .component-text{
+        display: none;
+    }
+    ::ng-deep .all-sub-components div a, ::ng-deep .management-sub-components div a{
+        justify-content: center;
+    }
+    ::ng-deep .all-sub-components div a::after, ::ng-deep .management-sub-components div a::after{
+        display: none;
+    }
+    ::ng-deep .side-navigation-bottom{
+        display: none;
+    }
+}

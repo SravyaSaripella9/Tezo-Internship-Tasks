@@ -1,0 +1,158 @@
+.side-navigation-top{
+    display: flex;
+    flex-direction: column;
+}
+.side-navigation-component{
+    display: flex;
+    flex-direction: column;
+    padding-top: 8%;
+}
+.component-heading{
+    display: flex;
+    flex-direction: row;
+    color: #C9C9C9;
+    font-size:12px;
+    padding:0 0 5% 5%;  
+    position: relative;
+}
+.component-heading::before{
+    content:"";
+    position: absolute;
+    width: 12%;
+    height: 3%;
+    background-color: #D7D9DB;
+    margin: 0;
+    padding: 0;
+    left: -30px;
+    top:20%;
+}
+.all-sub-components, .management-sub-components{
+    display: flex;
+    flex-direction: row;
+    width: 90%;
+    align-items: center;
+    margin:2% 0; 
+    cursor: pointer;
+    position: relative;
+}
+.all-sub-components div, .management-sub-components div{
+    width: 100%;
+    position: relative;
+}
+.all-sub-components div a, .management-sub-components div a{
+    width: 100%;
+    height: 40px;
+    padding-left: 5%;
+    display: flex;
+    align-items: center;
+    font-size: 15px;
+    white-space: nowrap;
+    text-decoration: none;
+    color: #75787A;
+    font-weight: 500;
+    border-radius: 10px;
+}
+div .component-img{
+    width: auto;
+    padding-right: 12px;
+}
+.all-sub-components div a::after, .management-sub-components div a::after{
+    position: absolute;
+    content: "\f054";
+    font-family: 'FontAwesome';
+    right: 5%;
+}
+.all-sub-components div:has(a.active)::after, .management-sub-components div:has(a.active)::after{
+    position:absolute; 
+    right: -1.4rem;
+    top:2.5%;
+    height: 95%;
+    width:4px;
+    content: "";
+    background-color: #F44848;
+    border-radius: 3px 0px 0px 3px;
+} 
+.all-sub-components div a:hover, .management-sub-components div a:hover{
+    background-color: #FDE9E9;
+    .component-text{
+        color: #F44848;
+    }
+}  
+.all-sub-components div a:hover::after, .management-sub-components div a:hover::after{
+    color:#F44848;
+}
+.active::after{
+    color:#F44848;
+}
+.active .component-text{
+    color:#F44848;
+}
+.all-sub-components .active, .management-sub-components .active{
+    background-color: #FDE9E9;
+    border-radius: 10px;
+}  
+.component-img{
+    position: relative;
+}
+.red-image{
+    position: absolute;
+    top:0;
+    left:0;
+    right:0;
+    bottom:0;
+    opacity: 0;
+}
+.active .red-image{
+    opacity: 1;
+}
+.all-sub-components div a:hover, .management-sub-components div a:hover{
+    .red-image{
+        opacity: 1;
+    }
+}
+.side-navigation-bottom{
+    display: flex;
+    flex-direction: column;
+    margin-top: auto;
+}
+.update-box{
+    display: flex;
+    flex-direction: column;
+    width: 85%;
+    background-color: #FEF6F6;
+    padding:7% 5%;
+    border-radius:12px;
+    margin-top:8%;
+}
+#updateHeading{
+    color: #F44848;
+    padding-bottom: 2%;
+    font-weight: bold;
+    font-size: 14px;
+}
+#updateContent{
+    color:#C9C9C9;
+    padding-bottom: 5%;
+    font-size: 14px;
+}
+.buttons{
+    display: flex;
+    flex-direction: row;
+    gap:8%;
+}
+.dismiss-button{
+    background-color: #FDE9E9;
+    color:#F44848;
+    padding:5%;
+    border-radius:8px;
+    cursor: pointer;
+    border: none;
+}
+.accept-button{
+    background-color: #F44848;
+    color: white;
+    padding:5%;
+    border-radius:8px;
+    cursor: pointer;
+    border: none;
+}
