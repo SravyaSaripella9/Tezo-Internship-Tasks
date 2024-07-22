@@ -1,0 +1,46 @@
+C:\Users\sravya.saripella\Documents\Internship Tasks\C# - ADO.NET\EmployeeDirectory\EmployeeDirectory.Data\obj\Debug\net8.0\EmployeeDirectory.Data.csproj.AssemblyReference.cache
+C:\Users\sravya.saripella\Documents\Internship Tasks\C# - ADO.NET\EmployeeDirectory\EmployeeDirectory.Data\obj\Debug\net8.0\EmployeeDirectory.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sravya.saripella\Documents\Internship Tasks\C# - ADO.NET\EmployeeDirectory\EmployeeDirectory.Data\obj\Debug\net8.0\EmployeeDirectory.Data.AssemblyInfoInputs.cache
+C:\Users\sravya.saripella\Documents\Internship Tasks\C# - ADO.NET\EmployeeDirectory\EmployeeDirectory.Data\obj\Debug\net8.0\EmployeeDirectory.Data.AssemblyInfo.cs
+C:\Users\sravya.saripella\Documents\Internship Tasks\C# - ADO.NET\EmployeeDirectory\EmployeeDirectory.Data\obj\Debug\net8.0\EmployeeDirectory.Data.csproj.CoreCompileInputs.cache
+C:\Users\sravya.saripella\Documents\Internship Tasks\C# - ADO.NET\EmployeeDirectory\EmployeeDirectory.Data\bin\Debug\net8.0\EmployeeDirectory.Data.deps.json
+C:\Users\sravya.saripella\Documents\Internship Tasks\C# - ADO.NET\EmployeeDirectory\EmployeeDirectory.Data\bin\Debug\net8.0\EmployeeDirectory.Data.dll
+C:\Users\sravya.saripella\Documents\Internship Tasks\C# - ADO.NET\EmployeeDirectory\EmployeeDirectory.Data\bin\Debug\net8.0\EmployeeDirectory.Data.pdb
+C:\Users\sravya.saripella\Documents\Internship Tasks\C# - ADO.NET\EmployeeDirectory\EmployeeDirectory.Data\bin\Debug\net8.0\EmployeeDirectory.Models.dll
+C:\Users\sravya.saripella\Documents\Internship Tasks\C# - ADO.NET\EmployeeDirectory\EmployeeDirectory.Data\bin\Debug\net8.0\EmployeeDirectory.Models.pdb
+C:\Users\sravya.saripella\Documents\Internship Tasks\C# - ADO.NET\EmployeeDirectory\EmployeeDirectory.Data\obj\Debug\net8.0\EmployeeDirectory.Data.csproj.CopyComplete
+C:\Users\sravya.saripella\Documents\Internship Tasks\C# - ADO.NET\EmployeeDirectory\EmployeeDirectory.Data\obj\Debug\net8.0\EmployeeDirectory.Data.dll
+C:\Users\sravya.saripella\Documents\Internship Tasks\C# - ADO.NET\EmployeeDirectory\EmployeeDirectory.Data\obj\Debug\net8.0\refint\EmployeeDirectory.Data.dll
+C:\Users\sravya.saripella\Documents\Internship Tasks\C# - ADO.NET\EmployeeDirectory\EmployeeDirectory.Data\obj\Debug\net8.0\EmployeeDirectory.Data.pdb
+C:\Users\sravya.saripella\Documents\Internship Tasks\C# - ADO.NET\EmployeeDirectory\EmployeeDirectory.Data\obj\Debug\net8.0\ref\EmployeeDirectory.Data.dll
+C:\Users\sravya.saripella\Documents\Internship Tasks\8-employee-directory-ado-net-SravyaSaripella\C# - ADO.NET\EmployeeDirectory\EmployeeDirectory.Data\bin\Debug\net8.0\EmployeeDirectory.Data.deps.json
+C:\Users\sravya.saripella\Documents\Internship Tasks\8-employee-directory-ado-net-SravyaSaripella\C# - ADO.NET\EmployeeDirectory\EmployeeDirectory.Data\bin\Debug\net8.0\EmployeeDirectory.Data.dll
+C:\Users\sravya.saripella\Documents\Internship Tasks\8-employee-directory-ado-net-SravyaSaripella\C# - ADO.NET\EmployeeDirectory\EmployeeDirectory.Data\bin\Debug\net8.0\EmployeeDirectory.Data.pdb
+C:\Users\sravya.saripella\Documents\Internship Tasks\8-employee-directory-ado-net-SravyaSaripella\C# - ADO.NET\EmployeeDirectory\EmployeeDirectory.Data\bin\Debug\net8.0\EmployeeDirectory.Models.dll
+C:\Users\sravya.saripella\Documents\Internship Tasks\8-employee-directory-ado-net-SravyaSaripella\C# - ADO.NET\EmployeeDirectory\EmployeeDirectory.Data\bin\Debug\net8.0\EmployeeDirectory.Models.pdb
+C:\Users\sravya.saripella\Documents\Internship Tasks\8-employee-directory-ado-net-SravyaSaripella\C# - ADO.NET\EmployeeDirectory\EmployeeDirectory.Data\obj\Debug\net8.0\EmployeeDirectory.Data.csproj.AssemblyReference.cache
+C:\Users\sravya.saripella\Documents\Internship Tasks\8-employee-directory-ado-net-SravyaSaripella\C# - ADO.NET\EmployeeDirectory\EmployeeDirectory.Data\obj\Debug\net8.0\EmployeeDirectory.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sravya.saripella\Documents\Internship Tasks\8-employee-directory-ado-net-SravyaSaripella\C# - ADO.NET\EmployeeDirectory\EmployeeDirectory.Data\obj\Debug\net8.0\EmployeeDirectory.Data.AssemblyInfoInputs.cache
+C:\Users\sravya.saripella\Documents\Internship Tasks\8-employee-directory-ado-net-SravyaSaripella\C# - ADO.NET\EmployeeDirectory\EmployeeDirectory.Data\obj\Debug\net8.0\EmployeeDirectory.Data.AssemblyInfo.cs
+C:\Users\sravya.saripella\Documents\Internship Tasks\8-employee-directory-ado-net-SravyaSaripella\C# - ADO.NET\EmployeeDirectory\EmployeeDirectory.Data\obj\Debug\net8.0\EmployeeDirectory.Data.csproj.CoreCompileInputs.cache
+C:\Users\sravya.saripella\Documents\Internship Tasks\8-employee-directory-ado-net-SravyaSaripella\C# - ADO.NET\EmployeeDirectory\EmployeeDirectory.Data\obj\Debug\net8.0\EmployeeDirectory.Data.sourcelink.json
+C:\Users\sravya.saripella\Documents\Internship Tasks\8-employee-directory-ado-net-SravyaSaripella\C# - ADO.NET\EmployeeDirectory\EmployeeDirectory.Data\obj\Debug\net8.0\EmployeeDirectory.Data.csproj.CopyComplete
+C:\Users\sravya.saripella\Documents\Internship Tasks\8-employee-directory-ado-net-SravyaSaripella\C# - ADO.NET\EmployeeDirectory\EmployeeDirectory.Data\obj\Debug\net8.0\EmployeeDirectory.Data.dll
+C:\Users\sravya.saripella\Documents\Internship Tasks\8-employee-directory-ado-net-SravyaSaripella\C# - ADO.NET\EmployeeDirectory\EmployeeDirectory.Data\obj\Debug\net8.0\refint\EmployeeDirectory.Data.dll
+C:\Users\sravya.saripella\Documents\Internship Tasks\8-employee-directory-ado-net-SravyaSaripella\C# - ADO.NET\EmployeeDirectory\EmployeeDirectory.Data\obj\Debug\net8.0\EmployeeDirectory.Data.pdb
+C:\Users\sravya.saripella\Documents\Internship Tasks\8-employee-directory-ado-net-SravyaSaripella\C# - ADO.NET\EmployeeDirectory\EmployeeDirectory.Data\obj\Debug\net8.0\ref\EmployeeDirectory.Data.dll
+C:\Projects\Task-8-ADO.NET\EmployeeDirectory\EmployeeDirectory.Data\bin\Debug\net8.0\EmployeeDirectory.Data.deps.json
+C:\Projects\Task-8-ADO.NET\EmployeeDirectory\EmployeeDirectory.Data\bin\Debug\net8.0\EmployeeDirectory.Data.dll
+C:\Projects\Task-8-ADO.NET\EmployeeDirectory\EmployeeDirectory.Data\bin\Debug\net8.0\EmployeeDirectory.Data.pdb
+C:\Projects\Task-8-ADO.NET\EmployeeDirectory\EmployeeDirectory.Data\bin\Debug\net8.0\EmployeeDirectory.Models.dll
+C:\Projects\Task-8-ADO.NET\EmployeeDirectory\EmployeeDirectory.Data\bin\Debug\net8.0\EmployeeDirectory.Models.pdb
+C:\Projects\Task-8-ADO.NET\EmployeeDirectory\EmployeeDirectory.Data\obj\Debug\net8.0\EmployeeDirectory.Data.csproj.AssemblyReference.cache
+C:\Projects\Task-8-ADO.NET\EmployeeDirectory\EmployeeDirectory.Data\obj\Debug\net8.0\EmployeeDirectory.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Task-8-ADO.NET\EmployeeDirectory\EmployeeDirectory.Data\obj\Debug\net8.0\EmployeeDirectory.Data.AssemblyInfoInputs.cache
+C:\Projects\Task-8-ADO.NET\EmployeeDirectory\EmployeeDirectory.Data\obj\Debug\net8.0\EmployeeDirectory.Data.AssemblyInfo.cs
+C:\Projects\Task-8-ADO.NET\EmployeeDirectory\EmployeeDirectory.Data\obj\Debug\net8.0\EmployeeDirectory.Data.csproj.CoreCompileInputs.cache
+C:\Projects\Task-8-ADO.NET\EmployeeDirectory\EmployeeDirectory.Data\obj\Debug\net8.0\EmployeeDirectory.Data.csproj.CopyComplete
+C:\Projects\Task-8-ADO.NET\EmployeeDirectory\EmployeeDirectory.Data\obj\Debug\net8.0\EmployeeDirectory.Data.dll
+C:\Projects\Task-8-ADO.NET\EmployeeDirectory\EmployeeDirectory.Data\obj\Debug\net8.0\refint\EmployeeDirectory.Data.dll
+C:\Projects\Task-8-ADO.NET\EmployeeDirectory\EmployeeDirectory.Data\obj\Debug\net8.0\EmployeeDirectory.Data.pdb
+C:\Projects\Task-8-ADO.NET\EmployeeDirectory\EmployeeDirectory.Data\obj\Debug\net8.0\ref\EmployeeDirectory.Data.dll
