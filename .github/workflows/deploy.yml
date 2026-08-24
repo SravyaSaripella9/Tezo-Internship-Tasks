@@ -3,7 +3,7 @@ name: Deploy Website
 on:
   push:
     branches:
-      - main
+      - 1-travel-pro-html-css
 
   workflow_dispatch:
 
